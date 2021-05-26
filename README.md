@@ -9,10 +9,8 @@
 <p align="left"> <a href="https://twitter.com/rinkychowdhury9" target="blank"><img src="https://img.shields.io/twitter/follow/rinkychowdhury9?logo=twitter&style=for-the-badge" alt="rinkychowdhury9" /></a> </p>  
   
 - 🔭 I’m currently working on [weDevs](https://github.com/weDevsOfficial)  
-  
-- 👨‍💻 Get to know me [https://rinkychowdhury.netlify.app/](https://rinkychowdhury.netlify.app/)  
-  
-- 📫 How to reach me **rinkychowdhury1559@gmail.com**  
+ 
+- 📫 How to reach me **lutfunrinky.129@gmail.com**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
@@ -25,7 +23,8 @@
 
 <h3 align="left">Manual Testing :</h3> 
 <p>SDLC , AGILE , Regression , Integration,Smoke, Functional, Performance, White box and Black box testing.</p>
-<p><b>Automated Testing : </b> Selenium , Appium , Apache JMeter ,API Testing(Postman)</p>
+<h3 align="left"Automated Testing :</h3> 
+<p></b> Selenium , Appium , Apache JMeter ,API Testing(Postman)</p>
 <p><b>Project Management :</b> JIRA , Teamwork , Trello , Test rail , Slack.</p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rink9&show_icons=true&locale=en&layout=compact" alt="rink9" /></p>  
