@@ -2,13 +2,8 @@
 <h1 align="center">Hello world 👋, I'm Rinky Chowdhury</h1>  
 <h3 align="center">Learner | Visionary | QA Analyst</h3>  
   
-![Profile views](https://gpvc.arturio.dev/rink9)  
-  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rink9" alt="rink9" /></a> </p>  
-  
-<p align="left"> <a href="https://twitter.com/rinkychowdhury9" target="blank"><img src="https://img.shields.io/twitter/follow/rinkychowdhury9?logo=twitter&style=for-the-badge" alt="rinkychowdhury9" /></a> </p>  
-  
-- 🔭 I’m currently working on [weDevs](https://github.com/weDevsOfficial)  
+![Profile views](https://gpvc.arturio.dev/rink9)
+- 🔭 I’m currently working at [weDevs](https://github.com/weDevsOfficial)  
  
 - 📫 How to reach me **lutfunrinky.129@gmail.com**  
   
@@ -23,9 +18,10 @@
 
 <h3 align="left">Manual Testing :</h3> 
 <p>SDLC , AGILE , Regression , Integration,Smoke, Functional, Performance, White box and Black box testing.</p>
-<h3 align="left"Automated Testing :</h3> 
-<p></b> Selenium , Appium , Apache JMeter ,API Testing(Postman)</p>
-<p><b>Project Management :</b> JIRA , Teamwork , Trello , Test rail , Slack.</p>
+<h3 align="left">Automated Testing :</h3> 
+<p>Selenium , Appium , Apache JMeter ,API Testing(Postman)</p>
+<h3 align="left">Project Management :</h3>
+<p>JIRA, Teamwork, Trello,TestRail </p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rink9&show_icons=true&locale=en&layout=compact" alt="rink9" /></p>  
   
