@@ -2,9 +2,15 @@
  <h3 align="center">Learner | Visionary | QA Analyst</h3>  
   
 ![Profile views](https://gpvc.arturio.dev/rink9)
-- 🔭 I’m currently working at [weDevs](https://github.com/weDevsOfficial)  
- 
-- 📫 How to reach me **lutfunrinky.129@gmail.com**  
+- 🔭 I’m currently working at [rtCamp](https://github.com/rtCamp)  
+
+- 👩‍💻 I’m currently learning **BackstopJs, puppeteer, Visual Automation**
+
+- 💬 Ask me about **CodeceptJs,Functional Testing, Regression Testing**
+
+- 📝 I regularly write articles on [My blog site](https://rinkychowdhury.com/blog/)
+
+- 📫 Reach me through **lutfunrinky.129@gmail.com**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
