@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/rink9)
 - 🔭 I’m currently working at [rtCamp](https://github.com/rtCamp)  
 
-- 👩‍💻 I’m currently learning **BackstopJs, puppeteer, Visual Automation**
+- 👩‍💻 I’m currently learning **Puppeteer, Jest, e2e testing**
 
 - 💬 Ask me about **CodeceptJs,Functional Testing, Regression Testing**
 
