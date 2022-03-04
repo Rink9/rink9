@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **CodeceptJs,Functional Testing, Regression Testing**
 
-- 📝 I regularly write articles on [My blog site](https://rinkychowdhury.com/blog/)
+- 📝 I regularly write articles on [My blog site](https://rinkychowdhury.com/)
 
 - 📫 Reach me through **lutfunrinky.129@gmail.com**  
   
