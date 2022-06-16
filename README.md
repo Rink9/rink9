@@ -4,9 +4,9 @@
 ![Profile views](https://gpvc.arturio.dev/rink9)
 - 🔭 I’m currently working at [rtCamp](https://github.com/rtCamp)  
 
-- 👩‍💻 I’m currently learning **Puppeteer, Jest, e2e testing**
+- 👩‍💻 I’m currently learning **Playwright, Jest, Continious Testing (CI)**
 
-- 💬 Ask me about **CodeceptJs,Functional Testing, Regression Testing**
+- 💬 Ask me about **CodeceptJs, Puppeteer, Selenium**
 
 - 📝 I regularly write articles on [My blog site](https://rinkychowdhury.com/)
 
