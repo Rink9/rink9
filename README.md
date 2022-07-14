@@ -1,25 +1,38 @@
+<h3 align="center">Learner | Visionary | QA Analyst</h3>  
+<img src ="https://gpvc.arturio.dev/Rink9">
 
- <h3 align="center">Learner | Visionary | QA Analyst</h3>  
-  
-![Profile views](https://gpvc.arturio.dev/rink9)
+
+<table>
+  <tr>
+    <td><img src="https://c.tenor.com/-mqOj8UvjKAAAAAd/keep-it-up.gif"></td>
+    <td>
+      <ul>
+
+
+<h4> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me </h4>
+ 
+
 - 🔭 I’m currently working at [rtCamp](https://github.com/rtCamp)  
 
-- 👩‍💻 I’m currently learning **Playwright, Jest, Continious Testing (CI)**
+- 👩‍💻 I’m currently learning **Playwright, Continuous Testing in CI/CD**
 
 - 💬 Ask me about **CodeceptJs, Puppeteer, Selenium**
 
-- 📝 I regularly write articles on [My blog site](https://rinkychowdhury.com/)
+- 📝 I often write articles on [My blog site](https://rinkychowdhury.com/)
 
-- 📫 Reach me through **lutfunrinky.129@gmail.com**  
-  
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
-<a href="https://twitter.com/rinkychowdhury9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rinkychowdhury9" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/rinkychowdhury9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rinkychowdhury9" height="30" width="40" /></a>  
-</p>  
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rink9&show_icons=true&locale=en&layout=compact" alt="rink9" /></p>  
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rink9&show_icons=true&locale=en" alt="rink9" /></p>  
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rink9&" alt="rink9" /></p>
+- 📫 Reach me on **lutfunrinky.129@gmail.com**  
+      </ul>
+      <h4><img src="https://github.com/ank1traj/ank1traj/blob/master/media/Handshake.gif" height="25px" style="max-width:100%;">Connect with me:</h4>
+      <a href="mailto:lutfunrinky.129@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/apple-mail.png"/></a>
+      <a href="https://rinkychowdhury.com/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
+      <a href="https://twitter.com/RinkyChowdhury9"><img src="https://img.icons8.com/dusk/40/000000/twitter-circled.png"/></a>
+      <a href="https://www.linkedin.com/in/rinkychowdhury9/"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h4><i> All Code Is Guilty Until Proven Innocent!  </i><h4>
+    </td>
+  </tr>
+</table>
+
