@@ -33,7 +33,6 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-    
       <h4><i> All Code Is Guilty Until Proven Innocent!  </i><h4>
     </td>
   </tr>
