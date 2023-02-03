@@ -12,11 +12,11 @@
 <h4> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me </h4>
  
 
-- 🔭 I’m currently working at [rtCamp](https://github.com/rtCamp)  
+- 🔭 I’m currently working at [Trew Knowledge](https://github.com/trewknowledge)  
 
-- 👩‍💻 I’m currently learning **Playwright, Continuous Testing in CI/CD**
+- 👩‍💻 I’m currently learning **Continuous Testing in CI/CD**
 
-- 💬 Ask me about **CodeceptJs, Puppeteer, Selenium**
+- 💬 Ask me about **Playwright, Puppeteer, CodeceptJs, Selenium**
 
 - 📝 I often write articles on [My blog site](https://rinkychowdhury.com/)
 
