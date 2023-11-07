@@ -1,5 +1,4 @@
 <h3 align="center">Learner | Visionary | QA Analyst</h3>  
-<img src ="https://gpvc.arturio.dev/Rink9">
 
 
 <table>
