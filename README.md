@@ -1,4 +1,4 @@
-<h3 align="left">QA Manager | Automation Architect | Breaking Things Since Forever</h3>
+<h3 align="left">Hi there 👋🏼</h3>
 
 * 🎯 I lead QA at [Trew Knowledge](https://github.com/trewknowledge) — shaping test strategy, quality gates, and automation across our web platforms.
 * 🧑‍🏫 I turn testers into stronger engineers through mentoring, pairing, code reviews, and a healthy dose of curiosity.
